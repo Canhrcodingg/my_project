@@ -10,3 +10,7 @@ alo
 # mình muốn bỏ qua file abc.xyz nhưng vẫn giữ myfile.xyz
 #sẽ chỉ bỏ qua các file .xyz ở trong git repo
 /*.xyz
+#minh muon bo qua file abc.txt trong secondfolder
+# ubuntu su dung /là path separarator
+# Windows thi su dung // hoac \
+secondfolder/abc.txt
