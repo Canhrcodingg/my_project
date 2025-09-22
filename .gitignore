@@ -14,3 +14,5 @@ alo
 # ubuntu su dung /là path separarator
 # Windows thi su dung // hoac \
 secondfolder/abc.txt
+
+secondfolder\my.txt
